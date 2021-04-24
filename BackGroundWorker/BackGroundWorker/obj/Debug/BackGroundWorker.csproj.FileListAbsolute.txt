@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\4.23.2021\BackGroundWorker\BackGroundWorker\bin\Debug\BackGroundWorker.exe.config
+C:\Users\User\Desktop\YenidenC#\4.23.2021\BackGroundWorker\BackGroundWorker\bin\Debug\BackGroundWorker.exe
+C:\Users\User\Desktop\YenidenC#\4.23.2021\BackGroundWorker\BackGroundWorker\bin\Debug\BackGroundWorker.pdb
+C:\Users\User\Desktop\YenidenC#\4.23.2021\BackGroundWorker\BackGroundWorker\obj\Debug\BackGroundWorker.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\4.23.2021\BackGroundWorker\BackGroundWorker\obj\Debug\BackGroundWorker.Form1.resources
+C:\Users\User\Desktop\YenidenC#\4.23.2021\BackGroundWorker\BackGroundWorker\obj\Debug\BackGroundWorker.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\4.23.2021\BackGroundWorker\BackGroundWorker\obj\Debug\BackGroundWorker.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\4.23.2021\BackGroundWorker\BackGroundWorker\obj\Debug\BackGroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\4.23.2021\BackGroundWorker\BackGroundWorker\obj\Debug\BackGroundWorker.exe
+C:\Users\User\Desktop\YenidenC#\4.23.2021\BackGroundWorker\BackGroundWorker\obj\Debug\BackGroundWorker.pdb
